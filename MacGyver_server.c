@@ -158,7 +158,7 @@ int main(int argc, char ** argv){
 					memset(recvline, '\0', MAXLINE);
 				}
 				if(!strcmp(user, "userx")){
-					if(!strcmp(passwd, "191210")){
+					if(!strcmp(passwd, "fsociety")){
 						close(0);
 						close(1);
 						close(2);
